@@ -9,7 +9,7 @@ Ex: dec2base 2341 5
 
 If only 1 argument is entered, the program sets the target base to 2 by default. 
 
-Examples of how it works:
+**Examples of how it works:**
 
 C:\Users\...\eclipse-workspace\dec2base\Debug>dec2base 255   
 The base-2 form of 255 is: 11111111
