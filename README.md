@@ -1,6 +1,6 @@
 # Dec2base
 
-This is the first assignement I had for my software developpement class ECSE 202 at McGill University. 
+This is the first assignment I had for my software developement class ECSE 202 at McGill University. 
 
 It's a command line program that converts an input number in Base-10 to an integer value in Base-X where X represents the target base.
 
